@@ -1,0 +1,34 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::8f9e:2051:cc3f:7777. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 23 22:10:31.947601 2023] [mpm_winnt:notice] [pid 14916:tid 364] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Mon Oct 23 22:10:31.947601 2023] [mpm_winnt:notice] [pid 14916:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 23 22:10:31.947601 2023] [core:notice] [pid 14916:tid 364] AH00094: Command line: 'httpd -d C:/Apache24'
+[Mon Oct 23 22:10:31.953600 2023] [mpm_winnt:notice] [pid 14916:tid 364] AH00418: Parent: Created child process 14788
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::8f9e:2051:cc3f:7777. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::8f9e:2051:cc3f:7777. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 23 22:10:32.269891 2023] [mpm_winnt:notice] [pid 14788:tid 388] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 22:10:50.519783 2023] [mpm_winnt:notice] [pid 14916:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Mon Oct 23 22:10:52.531307 2023] [mpm_winnt:notice] [pid 14788:tid 388] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 22:10:52.555331 2023] [mpm_winnt:notice] [pid 14916:tid 364] AH00430: Parent: Child process 14788 exited successfully.
+[Mon Oct 23 22:29:32.256104 2023] [mpm_winnt:notice] [pid 5788:tid 356] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Mon Oct 23 22:29:32.257105 2023] [mpm_winnt:notice] [pid 5788:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 23 22:29:32.257105 2023] [core:notice] [pid 5788:tid 356] AH00094: Command line: 'c:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 22:29:32.262099 2023] [mpm_winnt:notice] [pid 5788:tid 356] AH00418: Parent: Created child process 6264
+[Mon Oct 23 22:29:32.579273 2023] [mpm_winnt:notice] [pid 6264:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 23:29:36.865321 2023] [mpm_winnt:notice] [pid 5788:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 23:29:38.882028 2023] [mpm_winnt:notice] [pid 6264:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 23:29:38.907176 2023] [mpm_winnt:notice] [pid 5788:tid 356] AH00430: Parent: Child process 6264 exited successfully.
+[Mon Oct 23 23:33:04.750659 2023] [mpm_winnt:notice] [pid 11340:tid 352] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Mon Oct 23 23:33:04.750659 2023] [mpm_winnt:notice] [pid 11340:tid 352] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 23 23:33:04.750659 2023] [core:notice] [pid 11340:tid 352] AH00094: Command line: 'httpd -d C:/Web-Climate-Project/Apache24'
+[Mon Oct 23 23:33:04.755659 2023] [mpm_winnt:notice] [pid 11340:tid 352] AH00418: Parent: Created child process 19252
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19252:tid 336] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 23:33:43.596798 2023] [mpm_winnt:notice] [pid 11340:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 23:33:45.605723 2023] [mpm_winnt:notice] [pid 19252:tid 336] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 23:33:45.632730 2023] [mpm_winnt:notice] [pid 11340:tid 352] AH00430: Parent: Child process 19252 exited successfully.
+[Mon Oct 23 23:35:00.550551 2023] [mpm_winnt:notice] [pid 17456:tid 332] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Mon Oct 23 23:35:00.551552 2023] [mpm_winnt:notice] [pid 17456:tid 332] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 23 23:35:00.551552 2023] [core:notice] [pid 17456:tid 332] AH00094: Command line: 'C:\\Web-Climate-Project\\Apache24\\bin\\httpd.exe -d C:/Web-Climate-Project/Apache24'
+[Mon Oct 23 23:35:00.556549 2023] [mpm_winnt:notice] [pid 17456:tid 332] AH00418: Parent: Created child process 13276
